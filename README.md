@@ -1,5 +1,5 @@
 # ara-docker
-ARA (ARA Runs Ansible) docker build, running on gunicorn
+ARA (ARA Records Ansible) docker build, running on gunicorn
 
 ## Overview
 
