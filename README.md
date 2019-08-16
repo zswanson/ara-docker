@@ -1,3 +1,5 @@
+Please note, the docker image from this repo is for an older version of ARA; I unfortunately am consumed by work right now and don't have much time to update this for the newer 1.0 release which had significant architectural changes. 
+
 # ara-docker
 ARA (ARA Records Ansible) docker build, running on gunicorn
 
